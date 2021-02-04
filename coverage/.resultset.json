@@ -42,7 +42,7 @@
         3,
         2,
         2,
-        2,
+        5,
         2,
         2,
         null,
@@ -76,6 +76,10 @@
         null,
         3,
         2,
+        null,
+        1,
+        6,
+        null,
         null
       ],
       "/Users/darrenkopa/Desktop/Carnegie Mellon/67-373/Lab Refresher/lab5-choretracker-starter/app/models/task.rb": [
@@ -341,6 +345,6 @@
         0
       ]
     },
-    "timestamp": 1612400857
+    "timestamp": 1612401316
   }
 }
